@@ -466,4 +466,4 @@ def auto():
     
     
     
-bsnbuy()
+soumik()
