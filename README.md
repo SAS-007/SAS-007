@@ -1,8 +1,3 @@
-### Hi I'm SaS  👋
-
-- 🔭 I’m currently working on Termux 
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-... Thanks for visiting ... 
+git clone https://github.com/SAS-007/SAS-007.git
+cd SAS-007
+python sas007.py  
